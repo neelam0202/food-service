@@ -560,3 +560,7 @@ section.contact-us{
 section.contact-us .contact-info-wrapper{
     padding: 4rem 0;
 }
+section.contact-us .contact-info{ 
+display: flex;
+justify-content: center;
+}
